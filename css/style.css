@@ -17,7 +17,7 @@ body {
   font-size: 1.6rem;
   font-family: "PT Sans", sans-serif;
   color: #ffffff;
-  background-color: #101524;
+  background-color: #1a1a1a;
   overflow-x:hidden
 }
 
@@ -312,7 +312,7 @@ Main Components
   padding: 4em 0;
   cursor: auto;
   background-color: #ffffff;
-  color: #3f538e;
+  color: #292929;
   -webkit-transition: opacity 0.4s 0s, visibility 0s 0.4s;
   -moz-transition: opacity 0.4s 0s, visibility 0s 0.4s;
   transition: opacity 0.4s 0s, visibility 0s 0.4s;
